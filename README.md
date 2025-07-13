@@ -13,7 +13,7 @@ Always learning, experimenting, and looking for ways to solve real problems with
 
 ## 📸 Screenshots
 
-![portfolio](https://github.com/user-attachments/assets/35539c30-40c7-4437-ab49-87a63f018364)
+<img width="1886" height="885" alt="portfolio" src="https://github.com/user-attachments/assets/24ce4ab8-d121-4872-a1aa-0d29c9f04fee" />
 
 ---
 
