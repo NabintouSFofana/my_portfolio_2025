@@ -13,7 +13,11 @@ Always learning, experimenting, and looking for ways to solve real problems with
 
 ## 📸 Screenshots
 
-<img width="1886" height="885" alt="portfolio" src="https://github.com/user-attachments/assets/24ce4ab8-d121-4872-a1aa-0d29c9f04fee" />
+<img width="1910" height="860" alt="portfolio" src="https://github.com/user-attachments/assets/8ca0a72f-ce28-4f46-a8d0-133001a18b55" />
+
+<img width="1894" height="875" alt="portfolio2" src="https://github.com/user-attachments/assets/a1757c5d-e721-445e-bbd5-5dc2eb4e12bc" />
+
+<img width="1890" height="866" alt="portfolio3" src="https://github.com/user-attachments/assets/610694d1-af13-41a6-a0ed-b01ac94b21b5" />
 
 ---
 
@@ -31,7 +35,7 @@ I designed it to be clear, modern, and easy to navigate on all devices.
 
 ## 🚀 Live Demo
 
-👉 [View my portfolio here](https://nabintousfofana.github.io/my_portfolio/)
+👉 [View my portfolio here](https://nabintousfofana.github.io/my_portfolio_2025/)
 
 ---
 
@@ -110,7 +114,7 @@ A weather forecast tool that fetches real-time weather data using a public API.
 You can clone this portfolio as inspiration for your own:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/portfolio.git
+git clone (https://github.com/NabintouSFofana/my_portfolio_2025.git)
 ```
 
 Edit the HTML files and CSS to match your own style, projects, and personal info.
