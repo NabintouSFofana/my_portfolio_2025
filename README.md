@@ -64,6 +64,13 @@ A command-line tool that cleans CSV data, calculates a Data Quality Score, plots
 
 ---
 
+### 🌿 Schicgirl Blog  
+**Tech:** WordPress  
+Designed and customized a WordPress blog for a natural hair care brand. Focused on clean, responsive structure, easy updates, SEO basics, and engaging an online community. Helped the brand share tips and DIY recipes for their audience.  
+**What I learned:** Improved my WordPress theme customization, content structure, and ability to turn real user needs into an organized, practical blog.
+
+---
+
 ### 💼 JobBoard  
 **Tech:** HTML • CSS • JavaScript  
 A responsive job listing site with search, filtering, and bookmark features.  
